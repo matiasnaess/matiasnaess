@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @matiasnaess
-- 👀 I’m interested in CloudOps/DevOps
-- 🌱 I’m currently studying Backend Developement
+- 👨‍💻 CloudOps, mostly. And then a bit backend. And a bit frontend...  
+- ☁️ Cloud Software Engineer
+- 🌱 Studying Backend Developement 
 - 📫 How to reach me - matiasnaess.no
 
 <!---
