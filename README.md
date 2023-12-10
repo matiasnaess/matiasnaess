@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matiasnaess
-- 👨‍💻 CloudOps and Fullstack  
+- 👨‍💻 CloudOps/DevOps & Web Dev. 
 - ☁️ Cloud Software Engineer
-- 📫 How to reach me - matiasnaess.no
+- 📫 How to reach me: matiasnaess.no
 
 <!---
 matiasnaess/matiasnaess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
