@@ -6,7 +6,7 @@
   - **Frontend Development:** Next.js, React
   - **Backend Development:** Node.js, Express.js
   - **Containerization & Orchestration:** Kubernetes, Docker
-  - **Cloud Services:** Microsoft Azure, AWS (work), Cyclic/DigitalOcean (hobby)  
+  - **Cloud Services:** Work: Microsoft Azure, AWS, DigitalOcean, Cyclic 
 
 
 ---
