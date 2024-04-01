@@ -6,18 +6,20 @@
   - **Frontend Development:** Next.js, React
   - **Backend Development:** Node.js, Express.js
   - **Containerization & Orchestration:** Kubernetes, Docker
-  - **Cloud Services:** Microsoft Azure 
+  - **Cloud Services:** Microsoft Azure, AWS (work), Cyclic/DigitalOcean (hobby)  
 
 
 ---
 
-### Connect with me:
-You can contact me at [contact@matiasnaess.no](mailto:contact@matiasnaess.no)
+### 🙌 Connect with me:
 
+- You can contact me on [linkedin](https://www.linkedin.com/in/matiasn%C3%A6ss/)
 ---
 
-### Projects: 
-- **SteamID64.net:** This was a popular website that allowed you to convert and look up any Steam ID quickly and easily.  (retired)
+### 🛠️ Projects: 
+
+- 🥷 in progress... 
+
 
 ---
 
