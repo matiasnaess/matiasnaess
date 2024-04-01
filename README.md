@@ -20,6 +20,11 @@
 
 - 🥷 in progress... 
 
+### 🌱 Learning: 
+
+-  Web3 Dapps
+-  Blockchain Smart Contracts
+-  Bot building
 
 ---
 
