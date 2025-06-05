@@ -1,7 +1,7 @@
 ### Hi there, I'm Matias! 👋
 
 - ☁️ **Role:** Cloud Software Engineer
-- 👨‍💻 **Specialties:** CloudOps/DevOps, Full-Stack Development
+- 👨‍💻 **Specialties:** CloudOps, Full-Stack Dev
 - 🛠️ **Current Tech Stack & Tools:**
   - **Frontend Development:** Next.js, React
   - **Backend Development:** Node.js, Express.js
