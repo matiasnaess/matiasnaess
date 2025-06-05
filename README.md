@@ -6,7 +6,7 @@
   - **Frontend Development:** Next.js, React
   - **Backend Development:** Node.js, Express.js
   - **Containerization & Orchestration:** Kubernetes, Docker
-  - **Cloud Services:** Microsoft Azure, AWS, DigitalOcean, Cyclic 
+  - **Cloud Services:** Microsoft Azure, AWS
 
 
 ---
@@ -19,12 +19,6 @@
 ### 🛠️ Projects: 
 
 - 🥷 in progress... 
-
-### 🌱 Learning: 
-
--  Web3 Dapps
--  Blockchain Smart Contracts
--  Bot building
 
 ---
 
